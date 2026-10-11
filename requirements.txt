@@ -4,3 +4,6 @@ langchain-core
 langchain-community
 python-dotenv
 langchain-openai
+arxiv
+wikipedia
+faiss-cpu
