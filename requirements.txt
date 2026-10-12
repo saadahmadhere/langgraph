@@ -7,3 +7,4 @@ langchain-openai
 arxiv
 wikipedia
 faiss-cpu
+langchainhub
