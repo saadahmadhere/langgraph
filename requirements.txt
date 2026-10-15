@@ -8,3 +8,4 @@ arxiv
 wikipedia
 faiss-cpu
 langchainhub
+langchain-classic
